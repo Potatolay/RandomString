@@ -1,0 +1,31 @@
+((Specific Game Usage.))
+BLADEBALL:
+[ REMINDER THAT DOING THIS LIMITS THE EXECUTER TO ONLY RUN INSIDE OF BLADEBALL ]
+
+Step 1: Open "https://raw.githubusercontent.com/Potatolay/RandomString/main/ModifiedRobloxLua" in your browser and copy the code (CTRL+A then CTRL+C)
+Step 2: Extract another ByGay Folder
+Step 3: Navigate to "autorun"
+Step 4: Open "roblox.lua"
+Step 3: CTRL+A then CTRL+V to replace the code with the modified code
+Step 4: Save.
+Step 5: Make sure Roblox and Rune are both closed.
+Step 6: Join the Server-Hop game
+Step 7: Open "rune_ce" (not "ROBUX_ARE_A_SCAM")
+Step 8: Server-Hop to BladeBall
+Step 9: Press Enter on the "rune_ce" window (this should open up the modified cheat engine)
+Step 10: Make Sure The Ability "DASH" Is Equipped
+Step 11: Press the ComputerIcon Button (it usually has a green-to-red glow around it)
+Step 12: Make sure the tab is on "Applications"
+Step 13: Double-click Roblox
+Step 14: Press Inject
+Step 15: Once It Says Stuff About "Bypassing Hyperion blah blah blah" Then Its Ready.
+Step 16: 
+If You're At Spawn, Equip Some Other Ability Then Re-Equip Dash.
+If You're In A Game, Just Die. It Will Re-Equip The Dash Ability Upon Respawning.
+Step 17: Enjoy.
+
+[ REMINDER THAT DOING THIS LIMITS THE EXECUTER TO ONLY RUN INSIDE OF BLADEBALL ]
+
+
+Errors? Check this out to see if I have a fix for you there:
+https://raw.githubusercontent.com/Potatolay/RandomString/main/RCE%20Potential%20Fixes%20For%20Some%20Errors
