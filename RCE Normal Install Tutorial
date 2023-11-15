@@ -1,0 +1,18 @@
+(( How to use the executer.))
+
+[ FOR V1.8 ]
+
+Step 1: Make sure Roblox and Rune are both closed.
+Step 2: Join the Server-Hop game
+Step 3: Open "rune_ce" (not "ROBUX_ARE_A_SCAM")
+Step 4: Server-Hop to the game you want to try to exploit
+Step 5: Press Enter on the "rune_ce" window (this should open up the modified cheat engine)
+Step 6: Press the ComputerIcon Button (it usually has a green-to-red glow around it)
+Step 7: Make sure the tab is on "Applications"
+Step 8: Double-click Roblox
+Step 9: Press Inject
+Step 10: If it says "Got Tool: " then the word after that is the tool you need to equip to make the executer pop up.
+Step 11: If the executor pops up then have fun.
+
+Errors? Check this out to see if I have a fix for you there:
+https://raw.githubusercontent.com/Potatolay/RandomString/main/RCE%20Potential%20Fixes%20For%20Some%20Errors
