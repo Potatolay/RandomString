@@ -1,0 +1,31 @@
+(( Errored? ))
+(Ill keep updating this when I figure out specifically why certain errors happen.)
+
+["You discovered an easteregg! ID:example"]
+|
+[No clue, rune easter egg i suppose. just retry injecting.]
+
+
+["An unexpected error occured and Roblox needs to quit. We're Sorry!"]
+|
+[ByGay was probably detected and Roblox auto-closed. This can also happen if you open ByGay whilst Roblox is open.]
+
+
+["\ByGay\autorun\roblox.lua:312:"]
+|
+[This error only happens because the tools in your inventory/backpack/hotbar do not have a "localscript" inside of them
+or maybe if you redid it and it worked then the previous injection simply just failed.]
+
+
+["\ByGay\autorun\roblox.lua:214:" , "\ByGay\autorun\roblox.lua:295:"]
+|
+[These errors mainly happens because you have no tools in your inventory/backpack/hotbar]
+|
+[IF YOURE TRYING TO PLAY BLADEBALL AND ARE GETTING THIS ERROR, YOU NEED TO FOLLOW MY BLADEBALL TUTORIAL STEPS CORRECTLY.]
+
+I HAVE NOT FIGURED OUT FIXES FOR THESE ERRORS:
+["\ByGay\autorun\roblox.lua:347:"]
+["\ByGay\autorun\roblox.lua:341:"]
+["\ByGay\autorun\roblox.lua:140:"]
+["\ByGay\autorun\roblox.lua:141:"]
+["\ByGay\autorun\roblox.lua:151:"]
