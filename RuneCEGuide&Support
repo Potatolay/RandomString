@@ -1,0 +1,68 @@
+rbxmx's / Lay.'s Little "Guide" and/or "Support"
+
+
+(( How to use the executer.))
+[ FOR V1.8 ]
+
+Step 1: Make sure Roblox and Rune are both closed.
+Step 2: Join the Server-Hop game
+Step 3: Open "rune_ce" (not "ROBUX_ARE_A_SCAM")
+Step 4: Server-Hop to the game you want to try to exploit
+Step 5: Press Enter on the "rune_ce" window (this should open up the modified cheat engine)
+Step 6: Press the ComputerIcon Button (it usually has a green-to-red glow around it)
+Step 7: Make sure the tab is on "Applications"
+Step 8: Double-click Roblox
+Step 9: Press Inject
+Step 10: If it says "Got Tool: " then the word after that is the tool you need to equip to make the executer pop up.
+Step 11: If the executor pops up then have fun.
+
+
+((Specific Game Usage.))
+BLADEBALL:
+[ REMINDER THAT DOING THIS LIMITS THE EXECUTER TO ONLY RUN INSIDE OF BLADEBALL ]
+
+Step 1: Open "pastebin.com/raw/1qymQPj1" in your browser and copy the code (CTRL+A then CTRL+C)
+Step 2: Extract another ByGay Folder
+Step 3: Navigate to "autorun"
+Step 4: Open "roblox.lua"
+Step 3: CTRL+A then CTRL+V to replace the code with the modified code
+Step 4: Save.
+Step 5: Make sure Roblox and Rune are both closed.
+Step 6: Join the Server-Hop game
+Step 7: Open "rune_ce" (not "ROBUX_ARE_A_SCAM")
+Step 8: Server-Hop to BladeBall
+Step 9: Press Enter on the "rune_ce" window (this should open up the modified cheat engine)
+Step 10: Make Sure The Ability "DASH" Is Equipped
+Step 11: Press the ComputerIcon Button (it usually has a green-to-red glow around it)
+Step 12: Make sure the tab is on "Applications"
+Step 13: Double-click Roblox
+Step 14: Press Inject
+Step 15: Once It Says Stuff About "Bypassing Hyperion blah blah blah" Then Its Ready.
+Step 16: 
+If You're At Spawn, Equip Some Other Ability Then Re-Equip Dash.
+If You're In A Game, Just Die. It Will Re-Equip The Dash Ability Upon Respawning.
+Step 17: Enjoy.
+
+[ REMINDER THAT DOING THIS LIMITS THE EXECUTER TO ONLY RUN INSIDE OF BLADEBALL ]
+
+
+(( Errored? ))
+(Ill keep updating this when I figure out specifically why certain errors happen.)
+
+"You discovered an easteregg! ID:example"
+No clue, rune easter egg i suppose. just retry injecting.
+
+
+"An unexpected error occured and Roblox needs to quit. We're Sorry!"
+ByGay was probably detected and Roblox auto-closed. This can also happen if you open ByGay whilst Roblox is open.
+
+
+"\ByGay\autorun\roblox.lua:312:"
+
+This error only happens because the tools in your inventory/backpack/hotbar do not have a "localscript" inside of them
+or maybe if you redid it and it worked then the previous injection simply just failed.
+
+
+"\ByGay\autorun\roblox.lua:214" , "\ByGay\autorun\roblox.lua:295:"
+
+These errors mainly happens because you have no tools in your inventory/backpack/hotbar
